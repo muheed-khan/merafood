@@ -10,7 +10,6 @@ export default function () {
                 <Navbar/>
                 <div>Body</div>
                 <Footer/>
-                <Footer/>
         </div>
 
     </div>
