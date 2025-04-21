@@ -1,6 +1,6 @@
 import React from 'react'
 import broastImage from '../assets/broast.jpg'
-export default function card() {
+export default function Card() {
     return (
         <>
             <div className="card mt-3" style={{ "width": "18rem", "maxHeight": "360px" }}>
